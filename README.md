@@ -8,5 +8,5 @@
 <br><br>
 
 #### How to find me:
-<a href="https://t.me/krkpr">
+<a href="https://t.me/p3peka">
    <img top="0" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
